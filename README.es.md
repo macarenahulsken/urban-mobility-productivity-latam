@@ -1,7 +1,5 @@
 ---
 
-# 🇪🇸 Versión en Español
-
 ## Movilidad Urbana y Productividad Económica — Ciudades LATAM
 
 ### Objetivo
